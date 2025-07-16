@@ -30,8 +30,6 @@ A web-based application designed to help individuals—both salaried and non-sal
 
 ## 📊 Screenshots
 
-> *(Add screenshots of your dashboard, forms, reports, etc.)*
-
 <img width="931" height="394" alt="image" src="https://github.com/user-attachments/assets/0fffad2d-3fc1-4120-93df-4232ffcfdf38" />
 <img width="928" height="402" alt="image" src="https://github.com/user-attachments/assets/3da24b95-73d4-4a0d-9852-210aa83786f8" />
 <img width="881" height="391" alt="image" src="https://github.com/user-attachments/assets/66019351-2249-4588-a202-2c192ddd7676" />
